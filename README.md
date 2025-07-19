@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Karel Jhona Cestina
 
-Frontend Developer | **UI/UX Designer**  
+**Frontend Developer** | **UI/UX Designer**  
 Crafting responsive, user-focused websites and clean, modern interfaces.
 
 ---
@@ -19,26 +19,25 @@ I enjoy working with modern tools like **React**, **Tailwind CSS**, and **Figma*
 - **UI/UX Design** (Figma Prototyping, Design Systems)
 - **Responsive Web Design** (Mobile-First Approach)
 - **Component-Based Development** (Reusable UI Components)
-- **Landing Page & Dashboard Development**
 
 ---
 
 ## 🛠️ Skills
 
-- **Languages:** HTML5, CSS3, JavaScript, TypeScript
-- **Frameworks & Libraries:** React, Next.js, Tailwind CSS, Styled Components
-- **Design Tools:** Figma, Photoshop
+- **Languages:** HTML5, CSS3, JavaScript, TypeScript, React
+- **Frameworks & Libraries:** React, Bootstrap, Tailwind CSS, Styled Components
+- **Design Tools:** Figma
 - **Others:** Git, GitHub, Responsive Design, Prototyping
 
 ---
 
-## 📂 Featured Projects
+<!-- ## 📂 Featured Projects
 
 | Project                         | Description                                   | Link |
 |---------------------------------|-----------------------------------------------|------|
 | **E-commerce Coffee Brand**     | Visually rich landing page for a premium brand | [View Project](#) |
 | **Admin Dashboard UI**          | Responsive analytics dashboard UI             | [View Project](#) |
-| **SaaS Landing Page**           | Marketing site for software product           | [View Project](#) |
+| **SaaS Landing Page**           | Marketing site for software product           | [View Project](#) | -->
 
 ---
 
@@ -50,9 +49,9 @@ To help businesses and startups build intuitive, modern, and user-friendly digit
 
 ## 📫 Let’s Connect!
 
-- [LinkedIn](https://www.linkedin.com/)
-- [Portfolio Website](https://yourportfolio.com)
-- [Figma Community](https://figma.com/@yourusername)
+- [LinkedIn](https://www.linkedin.com/in/karel-jhona-cestina-332147213/)
+<!-- - [Portfolio Website](https://yourportfolio.com)
+- [Figma Community](https://figma.com/@yourusername) -->
 
 ---
 
