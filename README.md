@@ -50,6 +50,7 @@ To help businesses and startups build intuitive, modern, and user-friendly digit
 ## 📫 Let’s Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/karel-jhona-cestina-332147213/)
+- [Behance](https://www.behance.net/kareljcestina)
 <!-- - [Portfolio Website](https://yourportfolio.com)
 - [Figma Community](https://figma.com/@yourusername) -->
 
